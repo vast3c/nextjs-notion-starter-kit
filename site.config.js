@@ -1,6 +1,6 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '3-29-32bcc972ff344f14a10f12702e02c821',
+  rootNotionPageId: '5670debbbac3441cb822a68a4f080eda',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: 'Say What',
-  domain: 'https://www.notion.so/3-29-32bcc972ff344f14a10f12702e02c821',
+  domain: 'https://www.notion.so/5670debbbac3441cb822a68a4f080eda',
   author: 'Vast3C',
 
   // open graph metadata (optional)
