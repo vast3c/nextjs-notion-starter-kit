@@ -1,14 +1,14 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '501e938b6ebc4fa19cbccdd4526ad2fc',
+  rootNotionPageId: '3-29-32bcc972ff344f14a10f12702e02c821',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '想啥说啥',
-  domain: 'https://www.notion.so/Getting-Started-501e938b6ebc4fa19cbccdd4526ad2fc',
+  name: 'Say What',
+  domain: 'https://www.notion.so/3-29-32bcc972ff344f14a10f12702e02c821',
   author: 'Vast3C',
 
   // open graph metadata (optional)
