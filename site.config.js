@@ -12,7 +12,7 @@ export default {
   author: 'Vast3C',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '永远无知，永远好奇',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
