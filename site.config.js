@@ -16,7 +16,7 @@ export default {
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'vast3c',
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
